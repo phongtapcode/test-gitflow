@@ -1,1 +1,1 @@
-console.log("Create - Product model");
+console.log("Create - Product model Test ok");
